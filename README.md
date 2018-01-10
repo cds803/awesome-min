@@ -2,9 +2,9 @@
 
 ### Awesome Min
 
-- [ min-cli 官方仓库 ](https://github.com/meili/min-cli)
-- [ minui 官方仓库 ](https://github.com/meili/minui)
-- [ min 官方文档 ](https://meili.github.io/min/index.html)
+- [ Min-Cli 官方仓库 ](https://github.com/meili/min-cli)
+- [ MinUI 官方仓库 ](https://github.com/meili/minui)
+- [ Min 官方文档 ](https://meili.github.io/min/index.html)
 
 ### 开源项目
 
